@@ -55,8 +55,6 @@
 
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javed1310)  
-[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge)](https://github.com/javed1310)  
-[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge)](mailto:jvedahmd@gmail.com)  
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/javed1310](https://www.linkedin.com/in/javed-ahmad-290074252/))  
 
 ---
