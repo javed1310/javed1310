@@ -35,13 +35,10 @@
   <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40"/> <!-- HuggingFace -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/>
 
-  <!-- Full Stack Learning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
+
 </p>
 
 ---
@@ -54,17 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javed1310&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javed1310&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javed1310&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ### 🌐 Connect with Me  
 
