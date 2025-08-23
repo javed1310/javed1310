@@ -1,106 +1,75 @@
-<div align="center">
-<img src="https://github.com/javed1310/javed1310/blob/main/banner.png" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi 👋, I'm  
-JAVED AHMAD  
-🎯 A passionate Data Science & AI Enthusiast.</div>  
-  
-
-- 🔭 I’m currently working on [Drug Safety & Interaction Checker with Patient Safety Filter](https://github.com/javed1310)  
-  
-
-- 🌱 I’m currently learning **Generative AI, Full Stack Development (MERN), and Advanced Machine Learning**  
-  
-
-- ❓ Ask me about **Python, SQL, Data Analytics, Machine Learning, Streamlit, Power BI, and AI in Healthcare**  
-  
-
-- ⚡ Fun fact: I love building **AI projects that make healthcare simpler and explainable 🚑💡**  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a>  
-<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy.png" alt="NumPy" height="50" /></a>  
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn.png" alt="Scikit-learn" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" height="50" /></a>  
-<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" height="50" /></a>  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/javed1310" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/javed1310" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:jvedahmd@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javed1310&show_icons=true&theme=tokyonight" alt="javed1310 stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javed1310&theme=tokyonight" alt="javed1310 streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javed1310&layout=compact&theme=tokyonight" height="160"/>
-</p>  
-
-<br/>  
-
-## Recent Blog Posts  
-*(Coming soon on Medium/LinkedIn – Stay tuned 🚀)*  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31g3x7cazgk3jj5ebf5px3oyiyxi" /></div>  
-
-<br/>  
+<table>
+<tr>
+<td width="250">
+  <img src="https://github.com/javed1310/javed1310/blob/main/readme.png" width="250" alt="Javed's Banner"/>
+</td>
+<td>
+  <h1>👋 Hi! I'm Javed Ahmad</h1>
+  <h3>🎯 Aspiring Data Scientist & AI Enthusiast passionate about data and building explainable ML models.<br>
+  Skilled in Python, SQL, Power BI, and Machine Learning, currently exploring Generative AI and Backend.</h3>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">✨ Generated with ❤️ by [Javed Ahmad](https://github.com/javed1310) ✨</div>
+### 🛠 Tech Stack
+
+<p align="left">
+  <!-- Core Skills -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+  <!-- Visualization -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>
+
+  <!-- ML / AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40"/> <!-- HuggingFace -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/>
+
+  <!-- Full Stack Learning -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+### 📌 Featured Projects  
+- 🏥 [**Drug Safety & Interaction Checker with Patient Safety Filter**](https://github.com/javed1310) – Generative AI + ML powered system for patient education  
+- 📊 **Healthcare Cost Predictor** – Machine Learning model to estimate healthcare expenses  
+- ❤️ **ECG Classification (MIT-BIH/PTB-XL datasets)** – ML/DL models for arrhythmia detection  
+- 🛒 **Flipkart Review Sentiment Analysis** – BERT-based sentiment classification with W&B logging  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javed1310&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javed1310&theme=tokyonight" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javed1310&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javed1310)  
+[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge)](https://github.com/javed1310)  
+[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge)](mailto:jvedahmd@gmail.com)  
+
+---
