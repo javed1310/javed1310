@@ -43,10 +43,11 @@
 
 ### 📌 Featured Projects  
 
-- 🏥 [**Drug Safety & Interaction Checker with Patient Safety Filter**](https://github.com/javed1310/Drug-Safety-Checker) – Generative AI + ML powered system for patient education  
-- 📊 [**Healthcare Cost Predictor**](https://github.com/javed1310/Healthcare-Cost-Predictor) – Machine Learning model to estimate healthcare expenses  
-- 🛒 [**Flipkart Review Sentiment Analysis**](https://github.com/javed1310/Flipkart-Review-Sentiment) – BERT-based sentiment classification with W&B logging  
-- 🩺 [**Diabetes Detection**](https://github.com/javed1310/Diabetes-Detection) – Academic project using ML for diabetes prediction  
+- **[Resume](https://github.com/javed1310/Resume)** – My professional resume and portfolio highlights.
+- **[Resume Bullet Point Generator](https://github.com/javed1310/Resume_Bullet_Point_Generator)** – A tool to craft sharp, resume-ready bullet points.
+- **[Telecom Churn Analytics](https://github.com/javed1310/TelecomChurnAnalytics)** – An analysis project using ML to predict customer churn in telecom.
+- **[Healthcare Cost Predictor](https://github.com/javed1310/Healthcare_cost_predictor)** – ML model that estimates healthcare expenses.
+- **[Stock Volatility Analyzer](https://github.com/javed1310/Stock-Volatility-Analyzer)** – A Jupyter Notebook analyzing stock market volatility.
 
 ---
 
