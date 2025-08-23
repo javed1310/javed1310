@@ -35,26 +35,23 @@
   <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="40"/> <!-- HuggingFace -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/>
 
-
-  
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-
 </p>
 
 ---
 
 ### 📌 Featured Projects  
-- 🏥 [**Drug Safety & Interaction Checker with Patient Safety Filter**](https://github.com/javed1310) – Generative AI + ML powered system for patient education  
-- 📊 **Healthcare Cost Predictor** – Machine Learning model to estimate healthcare expenses  
-- ❤️ **ECG Classification (MIT-BIH/PTB-XL datasets)** – ML/DL models for arrhythmia detection  
-- 🛒 **Flipkart Review Sentiment Analysis** – BERT-based sentiment classification with W&B logging  
+
+- 🏥 [**Drug Safety & Interaction Checker with Patient Safety Filter**](https://github.com/javed1310/Drug-Safety-Checker) – Generative AI + ML powered system for patient education  
+- 📊 [**Healthcare Cost Predictor**](https://github.com/javed1310/Healthcare-Cost-Predictor) – Machine Learning model to estimate healthcare expenses  
+- 🛒 [**Flipkart Review Sentiment Analysis**](https://github.com/javed1310/Flipkart-Review-Sentiment) – BERT-based sentiment classification with W&B logging  
+- 🩺 [**Diabetes Detection**](https://github.com/javed1310/Diabetes-Detection) – Academic project using ML for diabetes prediction  
 
 ---
 
-
-
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/javed1310](https://www.linkedin.com/in/javed-ahmad-290074252/))  
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/javed-ahmad-290074252/)
 
 ---
