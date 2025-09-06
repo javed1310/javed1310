@@ -1,8 +1,6 @@
 <table>
 <tr>
-<td width="250">
-  <img src="" width="(https://i.pinimg.com/736x/f6/c4/67/f6c46785fa808d6ca0f3805f40dcb24e.jpg)" alt="Javed's Banner"/>
-</td>
+
 <td>
   <h1>👋 Hi! I'm Javed Ahmad</h1>
   <h3>🎯 Aspiring Data Scientist & AI Enthusiast passionate about data and building explainable ML models.<br>
