@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td>
+<td align="center">
   <h1>👋 Hi! I'm Javed Ahmad</h1>
   <h3>🎯 Aspiring Data Scientist & AI Enthusiast passionate about data and building explainable ML models.<br>
   Skilled in Python, SQL, Power BI, and Machine Learning, currently exploring Generative AI and Backend.</h3>
