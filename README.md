@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="250">
-  <img src="[https://github.com/javed1310/javed1310/blob/main/readme.png](https://in.pinterest.com/pin/101401429104891094/)" width="250" alt="Javed's Banner"/>
+  <img src="[[https://github.com/javed1310/javed1310/blob/main/readme.png](https://in.pin91094/)terest.com/pin/1014014291048](https://i.pinimg.com/736x/f6/c4/67/f6c46785fa808d6ca0f3805f40dcb24e.jpg)" width="250" alt="Javed's Banner"/>
 </td>
 <td>
   <h1>👋 Hi! I'm Javed Ahmad</h1>
