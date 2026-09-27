@@ -41,7 +41,7 @@ Currently building automation and AI-adoption systems. Previously built a multi-
 ---
 
 ### 📌 Featured Projects  
-
+- **[Baby Bloom](https://github.com/javed1310/Baby-bloom)** – RAG chatbot for pediatric health guidance using LangChain, FAISS, and CohereRerank, grounded strictly in 10 medical textbooks.
 - **[Resume](https://github.com/javed1310/Resume)** – My professional resume and portfolio highlights.
 - **[Resume Bullet Point Generator](https://github.com/javed1310/Resume_Bullet_Point_Generator)** – A tool to craft sharp, resume-ready bullet points.
 - **[Telecom Churn Analytics](https://github.com/javed1310/TelecomChurnAnalytics)** – An analysis project using ML to predict customer churn in telecom.
