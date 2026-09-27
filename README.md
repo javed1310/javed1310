@@ -3,8 +3,9 @@
 
 <td align="center">
   <h1>👋 Hi! I'm Javed Ahmad</h1>
-  <h3>🎯 Aspiring Data Scientist & AI Enthusiast passionate about data and building explainable ML models.<br>
-  Skilled in Python, SQL, Power BI, and Machine Learning, currently exploring Generative AI and Backend.</h3>
+  <h3>🎯 AI/ML Engineer building RAG pipelines, multi-agent systems, and business-automation tools in production. I like owning systems end-to-end from data pipeline and retrieval layer through prompts and deployment.
+
+Currently building automation and AI-adoption systems. Previously built a multi-LLM B2B intelligence platform and a multi-agent lead-generation pipeline.</h3>
 </td>
 </tr>
 </table>
